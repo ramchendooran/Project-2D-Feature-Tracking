@@ -36,4 +36,4 @@ See the classroom instruction and code comments for more details on each of thes
 
 ## Comparison of processing times for various detector desriptor combinations
 
-<img src="images/keypoints.png" width="654" height="804" />
+<img src="images/comparison.png" width="654" height="804" />
